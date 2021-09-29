@@ -1,0 +1,17 @@
+.block{
+    display: block;
+    text-align: center;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 25%;
+    height: 550px;
+    background: rgb(232, 153, 243);
+    font-size: 20px
+}
+.marker{
+    text-align: left;
+}
+.result{
+    font-size: 35px;
+    font-weight: bold;
+}
